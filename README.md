@@ -1,7 +1,7 @@
 # Can data unite people, reverse political polarisation and heal America? 
-a Data Story based on the YouNiverse dataset [0]
+a Data Story based on the [YouNiverse dataset]
 
-[0]: https://github.com/epfl-dlab/YouNiverse
+[YouNiverse dataset]: https://github.com/epfl-dlab/YouNiverse
 
 ## Background ​​⌛️
 Can we identify topics that unite polarised Americans, in the hope of minimising their division? We keep hearing how the political discourse is polarised nowadays in the United States (and perhaps the rest of the anglosphere) [1]. It seems that the left and right can't agree on anything. Culprits cited for this polarisation amongst others are cable news [4] (as opposed to what is commonly thought is social media [3]). With YouNiverse, we have access to the youtube counterpart of these news channels (along with many other smaller channels) and can explore indirectly the behaviour of political viewers. 

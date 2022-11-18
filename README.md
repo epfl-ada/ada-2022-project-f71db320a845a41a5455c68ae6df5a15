@@ -12,18 +12,21 @@ One aspect that is theorised to cause polarisation, is that the political inform
 
 \[3\]: https://www.pnas.org/doi/10.1073/pnas.2101967118#con1
 
-\[4\]: Cable networks more polarized
+\[4\]: https://www.asc.upenn.edu/news-events/news/cable-news-networks-have-grown-more-polarized-study-finds
 
 \[5\]: https://www.allsides.com/media-bias
 
 ## Research Questions❓
-To what extent is YouTube politically polarised?
-How do political YouTube channels play a role in this polarisation?
-Are there any topics that unite polarised youtubers?
+1. To what extent is YouTube politically polarised?
+
+2. How do political YouTube channels play a role in this polarisation?
+
+3. Are there any topics that unite polarised youtubers?
 
 ## Additional Datasets
-AllSides Media Bias Rating (https://www.allsides.com/media-bias/ratings) rates major American news outlets’ political bias.
-FiveThirtyEight polling data: Trump’s approval rating (https://projects.fivethirtyeight.com/trump-approval-ratings/)
+1. AllSides Media Bias Rating (https://www.allsides.com/media-bias/ratings) rates major American news outlets’ political bias.
+
+2. FiveThirtyEight polling data: Trump’s approval rating (https://projects.fivethirtyeight.com/trump-approval-ratings/)
 
 ## Methods (by question) 🧰 🪡
 ### 1. To what extent is YouTube politically polarised?

@@ -1,5 +1,6 @@
 # Can data unite people, reverse political polarisation and heal America? 
 a Data Story based on the YouNiverse dataset [0]
+
 [0]: https://github.com/epfl-dlab/YouNiverse
 
 ## Background ​​⌛️

@@ -8,15 +8,15 @@ Can we identify topics that unite polarised Americans, in the hope of minimising
 
 One aspect that is theorised to cause polarisation, is that the political information people consume is increasingly polar (biased towards one side or the other) [4]. Organisations such as AllSides are doing work to tag news channels according to the “pole” (political faction i.e. left, right) they are biased towards [5]. Using YouNiverse/youtube data as a proxy for the political preference of people (by assuming it correlates with the political news channel preference) we want to see if polarisation is true on youtube as well, whether the political channels popularity could correlate with popularity in the real world of politics (which could raise the question about a causal relationship as well) and whether there are any topics of unity that we assume could be talked about to bring unity instead.
 
-\[1\]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7201237/
+[1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7201237/
 
-\[2\]: https://arxiv.org/pdf/1908.08313.pdf
+[2]: https://arxiv.org/pdf/1908.08313.pdf
 
-\[3\]: https://www.pnas.org/doi/10.1073/pnas.2101967118#con1
+[3]: https://www.pnas.org/doi/10.1073/pnas.2101967118#con1
 
-\[4\]: https://www.asc.upenn.edu/news-events/news/cable-news-networks-have-grown-more-polarized-study-finds
+[4]: https://www.asc.upenn.edu/news-events/news/cable-news-networks-have-grown-more-polarized-study-finds
 
-\[5\]: https://www.allsides.com/media-bias
+[5]: https://www.allsides.com/media-bias
 
 ## Research Questions❓
 1. To what extent is YouTube politically polarised?
